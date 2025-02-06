@@ -1,0 +1,40 @@
+TESTING H13--tnguyen4561
+----------------------------------------------------------------------
+Checking function: dataSets -------------------
+   + data/ds0.txt output lines->0->0
+   + data/notfound.txt output lines->1->1
+   + Line #1.->data/notfound.txt cannot be opened.
+   + data/ds11.txt output lines->5->5
+   + Line #1.->data set 1: total values = 7
+   + Line #2.->average value = 5.2429
+   + Line #3.->
+   + Line #4.->data set 2: total values = 8
+   + Line #5.->average value = 6.7000
+   + data/ds1.txt output lines->2->2
+   + Line #1.->data set 1: total values = 19
+   + Line #2.->average value = 5.4632
+   + data/ds9.txt output lines->17->17
+   + Line #1.->data set 1: total values = 5
+   + Line #2.->average value = 2.4000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 13
+   + Line #5.->average value = 6.6154
+   + data/ds8.txt output lines->5->5
+   + Line #1.->data set 1: total values = 13
+   + Line #2.->average value = 4.5077
+   + Line #3.->
+   + Line #4.->data set 2: total values = 13
+   + Line #5.->average value = 5.2308
+   + data/ds12.txt output lines->8->8
+   + Line #1.->data set 1: total values = 9
+   + Line #2.->average value = 8.7000
+   + Line #3.->
+   + Line #4.->data set 2: total values = 18
+   + Line #5.->average value = 6.5722
+----------------------------------------------------------------------
+  Tests passing 30/30 (100%).
+
+----------------------------------------------------------------------
+H13:tnguyen4561:ALL TESTS -- PASS 30/30 (100%).
+----------------------------------------------------------------------
+MTY0Nzk4MzgzNTp0bmd1eWVuNDU2MTpIMTM6MTAwLjAwJQ==
