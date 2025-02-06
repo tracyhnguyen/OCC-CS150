@@ -1,0 +1,44 @@
+INSTRUCTOR TESTING H09--tnguyen4561
+----------------------------------------------------------------------
+Checking function: Tests for toRoman() -------------------
+   + toRoman(0)->OUT OF RANGE
+   + toRoman(3802)->MMMDCCCII
+   + toRoman(3766)->MMMDCCLXVI
+   + toRoman(3238)->MMMCCXXXVIII
+   + toRoman(3010)->MMMX
+   + toRoman(-5)->OUT OF RANGE
+   + toRoman(2652)->MMDCLII
+   + toRoman(1625)->MDCXXV
+   + toRoman(5)->V
+   + toRoman(1568)->MDLXVIII
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: Tests for ones() -------------------
+   + ones(4)->IV
+   + ones(2)->II
+   + ones(3)->III
+   + ones(5)->V
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for tens() -------------------
+   + tens(6)->LX
+   + tens(2)->XX
+   + tens(7)->LXX
+   + tens(5)->L
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for hundreds() -------------------
+   + hundreds(4)->CD
+   + hundreds(5)->D
+   + hundreds(9)->CM
+   + hundreds(6)->DC
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H09:tnguyen4561: ALL TESTS -- PASS 22/22 (100%).
+----------------------------------------------------------------------
+MTY0NjczOTUwNzp0bmd1eWVuNDU2MTpIMDk6MTAwLjAwJQ==

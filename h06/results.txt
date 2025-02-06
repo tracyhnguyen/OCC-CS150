@@ -1,0 +1,26 @@
+INSTRUCTOR TESTING H06--tnguyen4561
+----------------------------------------------------------------------
+Checking function: sumNums("str") -------------------
+   + sumNums("ws569o85oqwrp75om1")
+   + sumNums("0uiw5x2v8lx")
+   + sumNums("a1234bb11")
+   + sumNums("9wz1d73277r8047")
+   + sumNums("yl39x")
+   + sumNums("ln5g9")
+   + sumNums("d36")
+   + sumNums("4p")
+   + sumNums("aa11b33")
+   + sumNums("r11v57d12x")
+   + sumNums("5$$1;;1!!")
+   + sumNums("32rj05xorky3")
+   + sumNums("04e68y2h02dx5h")
+   + sumNums("h3pn6f291fh5l7v9i2i")
+   + sumNums("urce")
+   + sumNums("93")
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H06:tnguyen4561: ALL TESTS -- PASS 16/16 (100%).
+----------------------------------------------------------------------
+MTY0NTQxMjI5NDp0bmd1eWVuNDU2MTpIMDY6MTAwLjAwJQ==

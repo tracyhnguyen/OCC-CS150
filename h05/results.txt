@@ -1,0 +1,25 @@
+INSTRUCTOR TESTING H05--tnguyen4561
+----------------------------------------------------------------------
+Checking function: toFrenchGender("country") -------------------
+   + toFrenchGender("Nouvelle-Zelande")->la Nouvelle-Zelande
+   + toFrenchGender("Surinam")->le Surinam
+   + toFrenchGender("Dominique")->la Dominique
+   + toFrenchGender("Belize")->le Belize
+   + toFrenchGender("Etats-Unis")->les Etats-Unis
+   + toFrenchGender("Bahamas")->les Bahamas
+   + toFrenchGender("Allemagne")->l'Allemagne
+   + toFrenchGender("Cuba")->Cuba
+   + toFrenchGender("Israel")->Israel
+   + toFrenchGender("iles Galapagos")->les iles Galapagos
+   + toFrenchGender("Costa Rica")->le Costa Rica
+   + toFrenchGender("Andorre")->l'Andorre
+   + toFrenchGender("Suisse")->la Suisse
+   + toFrenchGender("Philippines")->les Philippines
+   + toFrenchGender("Perou")->le Perou
+----------------------------------------------------------------------
+  Tests passing 15/15 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H05:tnguyen4561: ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTY0NTQxMTMzMjp0bmd1eWVuNDU2MTpIMDU6MTAwLjAwJQ==
